@@ -1,0 +1,7 @@
+﻿C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\.NetTrainingAllHandsOn\WeeklyAssignments\OnlineOrderPortal\OnlineOrderPortal\CustomerMaster.cs
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\.NetTrainingAllHandsOn\WeeklyAssignments\OnlineOrderPortal\OnlineOrderPortal\ItemMaster.cs
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\.NetTrainingAllHandsOn\WeeklyAssignments\OnlineOrderPortal\OnlineOrderPortal\Program.cs
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\.NetTrainingAllHandsOn\WeeklyAssignments\OnlineOrderPortal\OnlineOrderPortal\Properties\AssemblyInfo.cs
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\.NetTrainingAllHandsOn\WeeklyAssignments\OnlineOrderPortal\OnlineOrderPortal\SendEmail.cs
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\.NetTrainingAllHandsOn\WeeklyAssignments\OnlineOrderPortal\OnlineOrderPortal\App.config
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\.NetTrainingAllHandsOn\WeeklyAssignments\OnlineOrderPortal\OnlineOrderPortal\packages.config
